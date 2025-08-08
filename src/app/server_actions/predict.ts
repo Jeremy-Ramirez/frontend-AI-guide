@@ -11,7 +11,7 @@ export async function getPrediction(formData: FormData) {
     });
 
     const data = await resp.json();
-    console.log(data);
+   console.log(data);
     return data;
   } catch (error) {
     console.log(error);
