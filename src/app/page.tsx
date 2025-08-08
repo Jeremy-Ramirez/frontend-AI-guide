@@ -57,7 +57,8 @@ export default function Home() {
   };
 
   return (
-    <div className="bg-white">
+    <div className=" bg-gray-100">
+      
       <h1 className="text-center mt-10">
         Discover art and history with artificial intelligence. Explore, learn,
         and connect with each piece through a personalized and intelligent
